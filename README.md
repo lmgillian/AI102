@@ -4,4 +4,4 @@ The materials and resources provided here are intended to complement the online 
 The AI102 exam is part of the Microsoft Certified: Azure AI Engineer Associate certification and 
 tests your knowledge and skills in designing and implementing AI solutions that leverage Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework.
 This repository contains practice questions based on the exam objectives as well as important reference material for Azure Services.
-Your contributions are welcome and I will be updating the repository based on changes to the exam and pactice exams.
+Your contributions are welcome and I will be updating the repository based on changes to the exam and practice exams.
